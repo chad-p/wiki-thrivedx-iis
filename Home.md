@@ -1,6 +1,6 @@
 Welcome to the Linux Class Wiki! This is a page that I use to share additional content and links with students.
 
-# About Chad
+### About Chad
 * https://www.linkedin.com/in/chadcloudguy/
 
 # Linux
@@ -11,6 +11,12 @@ Welcome to the Linux Class Wiki! This is a page that I use to share additional c
 * Redhat Interactive Lessons - https://developers.redhat.com/learn/lessons/linux-commands
 * Over The Wire - https://overthewire.org/wargames/bandit/
 * Mind Map of Linux Commands - https://xmind.app/m/WwtB/
+
+## Lesson Pages
+* [Lesson 01](https://github.com/chad-p/wiki-thrivedx-iis/wiki/Lesson-01)
+* [Lesson 02](https://github.com/chad-p/wiki-thrivedx-iis/wiki/Lesson-02)
+* [Lesson 03](https://github.com/chad-p/wiki-thrivedx-iis/wiki/Lesson-03)
+* [Lesson 04](https://github.com/chad-p/wiki-thrivedx-iis/wiki/Lesson-04)
 
 ## Linux Kahoots
 * [01](https://kahoot.it/challenge/?quiz-id=b9b609a2-18f0-483d-a0c1-85d362c50444&single-player=true)
@@ -24,8 +30,12 @@ Welcome to the Linux Class Wiki! This is a page that I use to share additional c
 
 
 # Cloud
-## Recommended Linux Resources
+## Recommended Cloud Resources
 * Learn To Cloud - https://learntocloud.guide
+
+## Lesson Pages
+* [Lesson 05](https://github.com/chad-p/wiki-thrivedx-iis/wiki/Lesson-05)
+* [Lesson 06](https://github.com/chad-p/wiki-thrivedx-iis/wiki/Lesson-06)
 
 ## Cloud Kahoots
 * [01](https://create.kahoot.it/share/cloud-concepts-basics-practice/8832f022-1c66-4550-ad87-7c161b0ac3e4)
@@ -36,21 +46,36 @@ Welcome to the Linux Class Wiki! This is a page that I use to share additional c
 
 
 # Python
-## Recommended Linux Resources
+## Recommended Python Resources
+* Python Institute https://pythoninstitute.org/python-essentials-1   Actual course: https://edube.org/study/pe1
+* Microsoft Learning Python - https://docs.microsoft.com/en-us/learn/paths/python-language/
+* Harvard's free Intro to Computer Science - https://cs50.harvard.edu/x/2022/
+* Quizlet Flashcards - https://quizlet.com/591555176/python-flash-cards/
+* Automate the Boring Stuff Book - https://automatetheboringstuff.com/
+* Python Terms - https://www.pythonforbeginners.com/python-glossary
+* Exercism Labs - https://exercism.org/tracks/python
+* Python Cheetsheet Site - https://www.pythoncheatsheet.org/
+* [Python Cheetsheet JPG](/chad-p/wiki-python-class/wiki/resources/images/Python-Cheat-Sheet.jpg) 
 
+# Sharing Code
+* https://www.online-python.com/online_python_compiler
 
-## Python Kahoots
-
+# Additional Labs
+* [Labs](https://github.com/chad-p/wiki-thrivedx-iis/wiki/Labs)
 
 # Lesson Pages
-* [Lesson 01](https://github.com/chad-p/wiki-thrivedx-iis/wiki/Lesson-01)
-* [Lesson 02](https://github.com/chad-p/wiki-thrivedx-iis/wiki/Lesson-02)
-* [Lesson 03](https://github.com/chad-p/wiki-thrivedx-iis/wiki/Lesson-03)
-* [Lesson 04](https://github.com/chad-p/wiki-thrivedx-iis/wiki/Lesson-04)
-* [Lesson 05](https://github.com/chad-p/wiki-thrivedx-iis/wiki/Lesson-05)
-* [Lesson 06](https://github.com/chad-p/wiki-thrivedx-iis/wiki/Lesson-06)
 * [Lesson 07](https://github.com/chad-p/wiki-thrivedx-iis/wiki/Lesson-07)
 * [Lesson 08](https://github.com/chad-p/wiki-thrivedx-iis/wiki/Lesson-08)
+
+## Python Kahoots
+* [01](https://kahoot.it/challenge/?quiz-id=f3ba943c-f407-44d5-b3e4-9a4fa1fdb2cd&single-player=true)
+* [02](https://kahoot.it/challenge/?quiz-id=5899d8a4-ed2a-45c7-8f9e-6d6c535cab89&single-player=true)
+* [03](https://kahoot.it/challenge/?quiz-id=e0ea845f-4e16-4b4e-87f3-2910c4681ede&single-player=true)
+* [04](https://kahoot.it/challenge/?quiz-id=a3aefa33-9cc9-40a0-9eaa-f61e983015f4&single-player=true)
+* [05](https://kahoot.it/challenge/?quiz-id=49988cad-52b1-4019-9e5b-4253d1c3e333&single-player=true)
+* [06](https://kahoot.it/challenge/?quiz-id=724f8ee0-7263-4e42-bee5-c158706a5dd7&single-player=true)
+* [Review](https://kahoot.it/challenge/?quiz-id=965d1314-f019-4300-9553-7695c52ef571&single-player=true)
+
 
 
 # Additional Learning Topics
