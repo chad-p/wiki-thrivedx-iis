@@ -11,6 +11,8 @@ Welcome to the Linux Class Wiki! This is a page that I use to share additional c
 * Redhat Interactive Lessons - https://developers.redhat.com/learn/lessons/linux-commands
 * Over The Wire - https://overthewire.org/wargames/bandit/
 * Mind Map of Linux Commands - https://xmind.app/m/WwtB/
+* SadServers - https://sadservers.com/
+* GitHub - veltman/clmystery: A command-line murder mystery - https://github.com/veltman/clmystery/tree/master
 
 ## Lesson Pages
 * [Lesson 01](https://github.com/chad-p/wiki-thrivedx-iis/wiki/Lesson-01)
@@ -32,6 +34,9 @@ Welcome to the Linux Class Wiki! This is a page that I use to share additional c
 # Cloud
 ## Recommended Cloud Resources
 * Learn To Cloud - https://learntocloud.guide
+* AWSome Day Online Conference - https://aws.amazon.com/events/awsome-day/americas/
+* Google Shared Fate - https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate
+
 
 ## Lesson Pages
 * [Lesson 05](https://github.com/chad-p/wiki-thrivedx-iis/wiki/Lesson-05)
